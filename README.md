@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Machine Learning model to predict results from Campeonato Brasileiro (football championship)
 - 🌱 I'm currently learning to improve my web scraping skills and being more proficient on Github
-- 👯 I’m looking to collaborate on Python dev projects and/or Machine Learning projects
+- 👯 I’m looking to collaborate on Python dev projects and Machine Learning projects
 - 🤔 I’m looking to start working with programming now that college is finished
 - 📫 How to reach me: [<img align="side" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 - 📚 Education: I have an engineering degree and experience working in the biggest construction company in Latin America
