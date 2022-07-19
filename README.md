@@ -1,4 +1,4 @@
-- 🔭 I'm currently working on a Machine Learning model to predict results from Campeonato Brasileiro (football championship)
+- 🔭 I'm currently working on a ML model to predict results from Campeonato Brasileiro
 - 🌱 I'm currently learning Selenium
 - 📫 How to reach me: [<img align="side" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 ---
