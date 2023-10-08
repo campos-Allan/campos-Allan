@@ -8,3 +8,4 @@
   
 #### This project consists in the application of a myriad of random forests regressor models, varying in the hyperparameters of 'max_depth' and 'n_estimators', with the objective to analyze its capacity to predict the number of passengers per bus line per day in a certain time of the year, with a certain set of weather conditions. Using the public transportation database from Brasil 6th biggest city, Belo Horizonte (MG).
  
+[linkedin]:https://www.linkedin.com/in/allan-camposs/
