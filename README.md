@@ -14,6 +14,6 @@
  </a>
 </p>
   
-#### Desenvolvi esse programa para automatizar uma tarefa repetitiva de buscar valores diariamente em 5 arquivos de PDF diferente e 3 planilhas de Excel, para no fim formatar tudo de uma certa maneira e inserir numa grande planilha de Excel.
+#### Desenvolvi esse programa para automatizar uma tarefa repetitiva de buscar valores diariamente em 5 arquivos de PDF e 3 planilhas de Excel, para no fim formatar tudo de uma certa maneira e inserir numa grande planilha de Excel.
  
 [linkedin]:https://www.linkedin.com/in/allan-camposs/
