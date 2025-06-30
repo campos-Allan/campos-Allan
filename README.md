@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/campos-Allan/data_and_ML_projects" target="_blank">
-     <img align="side" width="22px" src="https://cdn-icons-png.flaticon.com/512/4365/4365945.png" /> Data Science & ML projects
+     <img align="side" width="22px" src="https://cdn-icons-png.flaticon.com/512/4365/4365945.png" /> Data Analysis projects
   </a>&emsp;
 <a href="https://github.com/campos-Allan/python_projects" target="_blank">
      <img align="side" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-icons-1720083.png?f=webp" /> Python projects
